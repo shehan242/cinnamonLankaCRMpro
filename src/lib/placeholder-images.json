@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "app-logo",
+      "description": "Official Cinnamon Lanka Exports Logo - Elegant and modern spice brand identity featuring warm cinnamon tones and professional typography",
+      "imageUrl": "https://picsum.photos/seed/cinnamon-lanka-new-v1/600/600",
+      "imageHint": "cinnamon logo"
+    },
+    {
+      "id": "cinnamon-sticks",
+      "description": "Premium Cinnamon Sticks",
+      "imageUrl": "https://picsum.photos/seed/cinnamon1/600/400",
+      "imageHint": "cinnamon sticks"
+    },
+    {
+      "id": "cinnamon-powder",
+      "description": "Organic Cinnamon Powder",
+      "imageUrl": "https://picsum.photos/seed/cinnamon2/600/400",
+      "imageHint": "cinnamon powder"
+    },
+    {
+      "id": "customer-avatar-1",
+      "description": "Business Customer",
+      "imageUrl": "https://picsum.photos/seed/customer1/200/200",
+      "imageHint": "business person"
+    },
+    {
+      "id": "customer-avatar-2",
+      "description": "Retail Partner",
+      "imageUrl": "https://picsum.photos/seed/customer2/200/200",
+      "imageHint": "professional avatar"
+    }
+  ]
+}
